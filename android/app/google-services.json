@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "846137278053",
+    "firebase_url": "https://team-f-3-bootcamp-project-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "team-f-3-bootcamp-project",
+    "storage_bucket": "team-f-3-bootcamp-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846137278053:android:e71c15b6a1c48f8c5bd08c",
+        "android_client_info": {
+          "package_name": "com.oyunveuygulamaakademisi.yourself_in_time_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846137278053-4ebrgji7o4b4fg5uu7p67mj3h2th078k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oyunveuygulamaakademisi.yourself_in_time_project",
+            "certificate_hash": "f1687e85ecaa90773c3de890b5d6a1f1e559b7ce"
+          }
+        },
+        {
+          "client_id": "846137278053-97p7ojv8mq4ihjhacltle3qjcroite1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oyunveuygulamaakademisi.yourself_in_time_project",
+            "certificate_hash": "9bfc138e8f2d24b00945e3c5df83f7a97907eb09"
+          }
+        },
+        {
+          "client_id": "846137278053-qt3b0emtm65ov7fuir02v1ddb4rb0b4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANj_x59fIp7K83D0pxWcm8k-nKaouuYYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846137278053-1451b8g1sh81i4o5ak6liq8ssnrmosmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846137278053-3j152kb33v28cmb7chl9gdoa8dtjg182.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yourselfInTimeProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
